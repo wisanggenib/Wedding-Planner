@@ -44,7 +44,7 @@
     </div>
   </div>
   <div class="btn-place">
-    <button>See how it all began &nbsp <img src='../assets/icons/arrow-right.svg' alt=""></button>
+    <button>See how it all began &nbsp; <img src='../assets/icons/arrow-right.svg' alt=""></button>
   </div>
   
 </div>
